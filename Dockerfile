@@ -1,5 +1,5 @@
 FROM node:21-alpine AS base
-LABEL org.opencontainers.image.source="https://github.com/docmost/docmost"
+LABEL org.opencontainers.image.source="https://github.com/Redstonia-Server/rednote"
 
 FROM base AS builder
 

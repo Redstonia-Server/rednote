@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><b>Docmost</b></h1>
+    <h1><b>Rednote</b></h1>
     <p>
         Open-source collaborative wiki and documentation software.
         <br />
@@ -10,10 +10,10 @@
 <br />
 
 > [!NOTE]  
-> Docmost is currently in **beta**. We value your feedback as we progress towards a stable release.
+> Rednote is currently in **beta**. We value your feedback as we progress towards a stable release.
 
 ## Getting started
-To get started with Docmost, please refer to our [documentation](https://docmost.com/docs).
+To get started with Rednote, please refer to our [documentation](https://docmost.com/docs).
 
 ## Features
 - Real-time collaboration

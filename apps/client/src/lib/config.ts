@@ -7,7 +7,7 @@ declare global {
 }
 
 export function getAppName(): string {
-  return "Docmost";
+  return "Rednote";
 }
 
 export function getAppUrl(): string {

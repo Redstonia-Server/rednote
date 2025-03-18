@@ -67,7 +67,7 @@ export function AppHeader() {
             component={Link}
             to="/home"
           >
-            Docmost
+            Rednote
           </Text>
 
           <Group ml={50} gap={5} className={classes.links} visibleFrom="sm">
